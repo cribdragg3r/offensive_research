@@ -5,6 +5,7 @@ v1.0.0, 2019-09-25
 :toclevels: 3
 
 ### Information
+* CVE-2019-16887
 * IrFanView v4.53
 * location: `image00400000+0x000000000001dcfc (Hash=0x5adf8847.0x5fa6bccd)`
 
